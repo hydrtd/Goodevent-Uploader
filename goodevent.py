@@ -24,7 +24,6 @@ def main():
 
     variables = amogus.parse_args()
 
-    # "Raorapanthera123", "Mococoabyssgard123", "Shiorinovella123","Amongussussy123"
     Username=[]
     Username.append(variables.Username1)
     if variables.Username2 != None:
