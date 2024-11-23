@@ -1,3 +1,3 @@
-the date is randomized\n
-https://youtu.be/AoE6enMlMM4\n
+the date is randomized \
+https://youtu.be/AoE6enMlMM4 \
 dependencies: gooey, requests
